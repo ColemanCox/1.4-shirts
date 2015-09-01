@@ -9,3 +9,44 @@ html{
 *,*:before, *:after {
     box-sizing: inherit;
 }
+
+.shirt, .bg{
+  width:200px;
+  height:220px;
+  border:solid 4px black;
+}
+
+
+.bg{
+  position: absolute;
+
+}
+
+
+.arrowSize{
+  height:25px;
+}
+
+
+.arrow{
+
+  position: absolute;
+
+}
+
+
+.bigShirt{
+  display:block;
+}
+
+.botpic{
+  height:35px;
+}
+
+.bottom li{
+  display: inline-block;
+  position:relative;
+}
+
+
+
